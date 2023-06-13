@@ -1,0 +1,10 @@
+* lla
+
+Lisp Linear Algebra
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/lla.git   |
+| commit  | 9f72aa3  |
+| systems | lla |
+|---------+-------------------------------------------|
+
