@@ -4,7 +4,7 @@ Lisp Linear Algebra
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/lla.git |
-| commit  | ec00832                                  |
+| commit  | 515c972                                  |
 | systems | lla                                      |
 |---------+------------------------------------------|
  
